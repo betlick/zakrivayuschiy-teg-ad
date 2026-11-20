@@ -267,7 +267,7 @@
   text-transform: uppercase;
 }
 
-.memory-dialog__form {
+.memory-dialog__actions {
   grid-column: 1 / -1;
 }
 
